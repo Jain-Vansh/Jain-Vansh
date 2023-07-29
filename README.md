@@ -6,4 +6,5 @@ I'm currently focusing on developing my progamming skills and Game Design and De
 
 ## Skills
 > 💻 Python|SQL|C|C++|HTML|CSS|
+> /n
 > 🎮 UnrealEngine|Unity|Blender|
