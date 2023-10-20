@@ -5,7 +5,7 @@ I was born in Surat,Gujarat and brought up in Nagpur,Maharashtra.
 I'm currently focusing on developing my progamming skills and Game Design and Development.
 
 ## Skills
-> 💻 Python|SQL|C|C++|HTML|CSS|
+> 💻 Python|SQL|C|C++|C#|HTML|CSS|
 >
 > 
 > 🎮 UnrealEngine|Unity|Blender|
